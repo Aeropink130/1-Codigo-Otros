@@ -3,7 +3,7 @@
 
 - Haz un fork y clona el proyecto de Github a tu computadora.
   
-- Analiza el proyecto, para entender su funcionamiento. Pon mucha atención, el código tiene algunos errores.
+- Analiza el proyecto para entender su funcionamiento. Pon mucha atención ya que el código tiene algunos errores.
 
 - Aplica buenas prácticas para refactorizar el código.
 
